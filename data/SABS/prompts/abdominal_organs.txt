@@ -1,0 +1,8 @@
+liver
+spleen
+kidney
+pancreas
+stomach
+bowel
+bladder
+ aorta
