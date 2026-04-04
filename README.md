@@ -2,9 +2,10 @@
 
 ### Abstract
   This project integrates prior textual information into few-sample medical image segmentation.
-### Citation
-<img width="1631" height="1082" alt="c9b33a65aba996e57a9c68364ce49c5f" src="https://github.com/user-attachments/assets/c8ac5190-dce9-4636-8c7c-ea62b91528d1" />
 ### Reference diagram
+<img width="1631" height="1082" alt="c9b33a65aba996e57a9c68364ce49c5f" src="https://github.com/user-attachments/assets/c8ac5190-dce9-4636-8c7c-ea62b91528d1" />
+
+### Dependencies
 Please install following essential dependencies:
 ```
 Flask==3.0.3
