@@ -32,7 +32,7 @@ transfoemers==4.24.0
 vllm==0.17.0
 ```
 
-### Data sets and pre-processing
+### Data
 Download:
 1) **CHAOS-MRI**: [Combined Healthy Abdominal Organ Segmentation data set](https://chaos.grand-challenge.org/)
 2) **Synapse-CT**: [Multi-Atlas Abdomen Labeling Challenge](https://www.synapse.org/#!Synapse:syn3193805/wiki/218292)
